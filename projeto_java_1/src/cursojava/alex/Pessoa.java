@@ -1,4 +1,4 @@
-package curso.java.alex;
+package cursojava.alex;
 
 public class Pessoa {
 	
@@ -7,6 +7,10 @@ public class Pessoa {
 	
 	public String getNome() {
 		return nome;
+	}
+	
+	public String getSobrenome() {
+		return sobrenome;
 	}
 	
 	public void setNome(String nome) {
